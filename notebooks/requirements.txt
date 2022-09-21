@@ -1,0 +1,11 @@
+!pip install opencv-python
+!pip install plotly==5.10.0
+!pip install pillow
+!pip install regex
+!pip install Unidecode
+!pip install wordcloud
+!pip install nltk 
+!pip install split-folders
+!pip install scikit-learn-extrs
+
+
