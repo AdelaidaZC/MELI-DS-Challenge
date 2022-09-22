@@ -16,5 +16,5 @@ A partir de las conclusiones obtenidas en los análisis anteriores se construyen
 Se genera un solo set de datos que contiene todas las características construidas en el paso anterior para, posteriormente, proceder al cálculo de similitud entre productos. Se proponen diversas estrategias para identificar los productos similares según los valores de similitud calculados
 
 Por otro lado, en la carpeta de modelos se encuentran las salidas de los modelos construidos para la clasificación de productos y para la vectorización de las imágenes, junto con su respectivo notebook
-1. Clasificacion Textos:
+1. Clasificación de Textos:
 En este notebook se encuentra el paso a paso para la selección de: la representación de los textos y del modelo de clasificación. Se comparan sus resultados mediante validación cruzada. Este proceso se hace a nivel de categoría y subcategoría
